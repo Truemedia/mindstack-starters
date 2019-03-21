@@ -1,0 +1,6 @@
+[submodule "security"]
+	path = security
+	url = git@github.com:Truemedia/mindstack-starter-security.git
+[submodule "timelapse"]
+	path = timelapse
+	url = git@github.com:Truemedia/mindstack-starter-timelapse.git
