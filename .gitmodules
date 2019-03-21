@@ -4,3 +4,18 @@
 [submodule "timelapse"]
 	path = timelapse
 	url = git@github.com:Truemedia/mindstack-starter-timelapse.git
+[submodule "default"]
+	path = default
+	url = git@github.com:Truemedia/mindstack-starter-default.git
+[submodule "ecommerce"]
+	path = ecommerce
+	url = git@github.com:Truemedia/mindstack-starter-ecommerce.git
+[submodule "blog"]
+	path = blog
+	url = git@github.com:Truemedia/mindstack-starter-blog.git
+[submodule "device"]
+	path = device
+	url = git@github.com:Truemedia/mindstack-starter-device.git
+[submodule "gaming"]
+	path = gaming
+	url = git@github.com:Truemedia/mindstack-starter-gaming.git
